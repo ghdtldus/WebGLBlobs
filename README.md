@@ -9,7 +9,7 @@ Demos for the tutorial on how to deform and color spheres in Three.js. By [Mario
 [Demo](http://tympanus.net/Tutorials/WebGLBlobs/)
 
 
-## Installation
+## Installation.
 
 Install dependencies:
 
