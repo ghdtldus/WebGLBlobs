@@ -1,4 +1,4 @@
-# Blobs with Three.js
+# Blobs with Three.js.
 
 Demos for the tutorial on how to deform and color spheres in Three.js. By [Mario Carrillo](https://twitter.com/marioecg).
 
